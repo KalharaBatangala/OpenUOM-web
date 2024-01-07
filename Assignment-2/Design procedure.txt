@@ -1,0 +1,17 @@
+Developing Responsive Web page using HTML, CSS and Javascript
+
+I used HTML navigation bar and used css to add different colors to different tabs.
+The active page's tab is always blue. 
+
+for representation of images, I used card images. They are designed using css making a card like structure
+Images are embedded in these cards and they are labelled.
+
+There is a simple css animation at the bottom of the page.
+
+I used a simple javascript function to make the text bigger when the mouse is over the text. - enlarge function
+I used <table>, <th>, <tr> and <td> tags to make a table and applied css features to modify it.
+
+The navigation bar is fixed because it easier for the user to navigate among pages even when they are at the bottom of the page. No need to go back to the home.
+
+!!!!! ``` Thank You ``` !!!!!
+DP Education
